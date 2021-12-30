@@ -109,3 +109,4 @@ client.on("message reaction", reaction => {
 })
 
 client.login(process.env.CLIENT_TOKEN);
+jam
